@@ -368,7 +368,7 @@
         x="24"
         y="744"
         width="276"
-        height="168"/>
+        height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1fc35841d5174416abcb288547a18dfa"
@@ -408,10 +408,10 @@
           href="RealizationRelationship_id-78326c782ef546a1833e7e893d56aa5d.xml#id-78326c782ef546a1833e7e893d56aa5d"/>
     </sourceConnections>
     <bounds
-        x="756"
-        y="708"
+        x="743"
+        y="744"
         width="276"
-        height="168"/>
+        height="121"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-7e89386243d347c58958a189e7af5720"
@@ -454,7 +454,7 @@
         x="359"
         y="780"
         width="276"
-        height="168"/>
+        height="132"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-fcf5b0040aed4b71bc989f017dcfa00d"
